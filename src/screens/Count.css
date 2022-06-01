@@ -1,0 +1,17 @@
+.count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  background-color: rgba(252, 170, 133, 0.699);
+  color: rgb(41, 41, 41);
+  font-size: 1.5rem;
+}
+
+.count-btn {
+  line-height: 0;
+  height: 30px;
+  width: 30px;
+  font-size: 1.5em;
+  margin-left: 20px;
+}

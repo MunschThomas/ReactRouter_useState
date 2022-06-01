@@ -1,0 +1,9 @@
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  background-color: rgb(113, 202, 238);
+  color: rgb(41, 41, 41);
+  font-size: 1.5rem;
+}
