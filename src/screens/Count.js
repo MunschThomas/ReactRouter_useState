@@ -5,8 +5,6 @@ import "./Count.css";
 const Count = () => {
   const [count, setCount] = useState(0);
 
-  console.log("poulet :", count);
-
   return (
     <div className="count">
       <h1>Count : {count}</h1>
