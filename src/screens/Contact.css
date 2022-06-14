@@ -1,29 +1,29 @@
 .contact__container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 90vh;
-  background-color: rgb(113, 238, 151);
-  color: rgb(41, 41, 41);
-  font-size: 1.5rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+	background-color: rgb(113, 238, 151);
+	color: rgb(41, 41, 41);
+	font-size: 1.5rem;
 }
 
 .contact__wrapper {
-  display: flex;
-  transform: translateY(-5vh);
-  flex-direction: column;
-  align-items: center;
+	display: flex;
+	transform: translateY(-5vh);
+	flex-direction: column;
+	align-items: center;
 }
 
 .contact__wrapper h1 {
-  padding-bottom: 5vh;
+	padding-bottom: 5vh;
 }
 
 .contact__wrapper label {
-  font-weight: bold;
+	font-weight: bold;
 }
 
 .contact__wrapper input {
-  font-size: 1.2rem;
+	font-size: 1.2rem;
 }
